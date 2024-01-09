@@ -8,7 +8,7 @@ title: "trang - hello word 👋"
 - I love humor,
 - and [photography]().
 
-Contact: <n-trang@outlook.com>. Other places: [LinkedIn](), [Github](), [dev.to](), [le gram ✨]().
+Contact: <n-trang@outlook.com>. Other places: [LinkedIn](), [Github](), [the gram ✨]().
 
 ## Objectives
 
