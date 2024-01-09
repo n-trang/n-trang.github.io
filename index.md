@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "trang - hello word 👋"
+title: "hello word 👋"
 ---
 
 ## Hello world, my name is Trang 👋
-- I'm a business intelligence/ [wannabe🎵](https://youtu.be/gJLIiF15wjQ?si=e2T_aBBYbtAXOBrx&t=48). Here is my cv: **[trang-cv.pdf]()**.
+- Main interest: Salesforce, Azure, [using tech because it's really interesting and empowering]().
 - I love humor,
 - and [photography]().
 
