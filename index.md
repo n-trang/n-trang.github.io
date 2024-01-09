@@ -1,20 +1,20 @@
 ---
 layout: default
-title: "Hello word 👋"
+title: "trang - hello word 👋"
 ---
 
 ## Hello world, my name is Trang 👋
-- I'm a bussiness inteligence/ ananylist [wannabe🎵](). Here is my CV: **[trang-cv.pdf]()**.
+- I'm a business intelligence/ [wannabe🎵](https://youtu.be/gJLIiF15wjQ?si=e2T_aBBYbtAXOBrx&t=48). Here is my cv: **[trang-cv.pdf]()**.
 - I love humor,
 - and [photography]().
 
-Connect: <n-trang@outlook.com>, [LinkedIn](), [Github](), [la gram ✨]().
+Contact: <n-trang@outlook.com>. Other places: [LinkedIn](), [Github](), [dev.to](), [le gram ✨]().
 
 ## Objectives
 
-this is a paragraphy of who i am
+this is a paragraph of who i am
 
-this is a paragraphy of what i'm looking for
+this is a paragraph of what i'm looking for
 
 here is my promises
 
