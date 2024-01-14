@@ -3,21 +3,28 @@ layout: default
 title: "hello word 👋"
 ---
 
-## Hello world, my name is Trang 👋
-- Main interest: Salesforce, Azure, [using tech because it's really interesting and empowering]().
+## Hello world 👋 my name is Trang 
+- Main interests: Salesforce, Azure, and [using tech because it's really interesting and empowering]().
 - I love humor,
 - and [photography]().
 
-Contact: <n-trang@outlook.com>. Other places: [LinkedIn](), [Github](), [the gram ✨]().
+Contact: <n-trang@outlook.com>. Other places: [LinkedIn](), [Github](), [the gram 📸]().
 
-## Objectives
+## 🙋‍♀️ Objectives
 
 this is a paragraph of who i am
 
-this is a paragraph of what i'm looking for. Here's [my CV](./assets/cv-trang.pdf)
+this is a paragraph of what I'm looking for. Here's [my CV](./assets/cv-trang.pdf)
 
 here is my promises
 
-## Everything by ✨ project ✨
+## 🔨 Projects
 
-<!-- ![photo](./assets/DSC06274.JPG) -->
+Learning is by doing. Learning is by doing. Learning is by doing. Learning is by doing. Learning is by doing. 
+
+### retron
+
+- this new
+- that new
+
+### samforce
