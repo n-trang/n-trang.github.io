@@ -4,7 +4,7 @@ body {
   margin: auto;
   max-width: 550px;
   font-family: "Open Sans", sans-serif;
-  padding: 15px;
+  padding: 10px;
 }
 
 h1, h2, h3, h4, h5 {
@@ -32,6 +32,8 @@ a:hover {
   display: flex;
   list-style: none;
   padding-left: 0;
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
 
 .navlinkitem {

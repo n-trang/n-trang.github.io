@@ -5,11 +5,11 @@ permalink: /
 ---
 
 ## Hello world 👋 my name is Trang 
-- Main interests: Salesforce, Azure, and [using tech because it's really interesting and empowering]().
+- Main interests: Salesforce, Azure, and [empowering tech stuffs]().
 - I love humor,
 - and [photography]().
 
-Contact: <n-trang@outlook.com>. Other places: [GitHub](), [LinkedIn](), [the gram 📸]().
+Contact: <n-trang@outlook.com>. Other places: [GitHub](), [LinkedIn](), [le gram 📸]().
 
 ## 👷‍♀️ Objectives
 
