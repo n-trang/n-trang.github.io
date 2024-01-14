@@ -14,8 +14,10 @@ Contact: <n-trang@outlook.com>. Other places: [LinkedIn](), [Github](), [the gra
 
 this is a paragraph of who i am
 
-this is a paragraph of what i'm looking for
+this is a paragraph of what i'm looking for. Here's [my CV](./assets/cv-trang.pdf)
 
 here is my promises
 
 ## Everything by ✨ project ✨
+
+<!-- ![photo](./assets/DSC06274.JPG) -->

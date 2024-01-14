@@ -1,7 +1,17 @@
 body {
-  background: #ffffff;
-  color: #000000;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: monospace;
+}
+
+#navbar ul {
+  list-style: none;
+}
+#navbar li {
+  display: inline-flex;
+  font-family: monospace;
 }
 
 /*# sourceMappingURL=main.css.map */
