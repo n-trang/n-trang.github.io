@@ -11,7 +11,7 @@ permalink: /
 
 Contact: <n-trang@outlook.com>. Other places: [GitHub](), [LinkedIn](), [the gram 📸]().
 
-## 🙋‍♀️ Objectives
+## 👷‍♀️ Objectives
 
 this is a paragraph of who i am
 

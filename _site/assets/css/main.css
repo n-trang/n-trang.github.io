@@ -4,6 +4,7 @@ body {
   margin: auto;
   max-width: 550px;
   font-family: "Open Sans", sans-serif;
+  padding: 15px;
 }
 
 h1, h2, h3, h4, h5 {
