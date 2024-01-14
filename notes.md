@@ -1,9 +1,10 @@
 ---
 layout: default
 title: "✍️notes"
+permalink: /notes/
 ---
 
-## I write along as I learn. Also, some random thoughts and translations.
+## I write along as I learn. Also some translations.
 
 <ul>
   {% for post in site.posts %}

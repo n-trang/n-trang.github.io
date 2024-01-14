@@ -3,23 +3,54 @@
 
 
 body {
-  font-family: "Open Sans", sans-serif;
+  margin: auto;
+  max-width: 550px;
+  font-family: 'Open Sans', sans-serif;
 };
 
 h1, h2, h3, h4, h5 {
   font-family: "Noto Sans Mono", monospace;
 };
 
-link {
+a {
   color: green;
+  text-decoration: none;
 }
 
-#navbar {
-  ul {
-    list-style: none;
-  };
-  li {
-    display: inline-flex;
-    font-family: "Noto Sans Mono", monospace;
-  };
-};
+a:hover {
+  color: white;
+  background-color: green;
+}
+
+
+// #navbar {
+//   ul {
+//     list-style: none;
+//   };
+//   li {
+//     display: inline-flex;
+//     font-family: "Noto Sans Mono", monospace;
+//   };
+// };
+
+.navbar {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: white;
+}
+.navlinks {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+}
+.navlinkitem {
+  padding-right: 2rem;
+  margin: auto;
+
+}
+.navlinkitem :hover {
+  color: white;
+  background-color: green;
+
+}

@@ -1,7 +1,7 @@
 url: "https://n-trang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "nguyen trang" # the name of your site, e.g. ACME Corp.
-
+permalink: /notes/:title
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap

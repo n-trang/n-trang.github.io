@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "hello word 👋"
+permalink: /
 ---
 
 ## Hello world 👋 my name is Trang 
