@@ -9,7 +9,7 @@ permalink: /
 - I love humor,
 - and [photography]().
 
-Contact: <n-trang@outlook.com>. Other places: [LinkedIn](), [Github](), [the gram 📸]().
+Contact: <n-trang@outlook.com>. Other places: [GitHub](), [LinkedIn](), [the gram 📸]().
 
 ## 🙋‍♀️ Objectives
 

@@ -5,3 +5,4 @@ permalink: /notes/:title
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-toc

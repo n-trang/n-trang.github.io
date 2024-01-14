@@ -7,9 +7,15 @@
   <body>
     {% include nav.html %}
     <h1>{{ post.title }}</h1>
-    {{ post.title }}
-    {{ content }}
+
+    <div class="toc">
+      {% toc %}
+    </div>
+
+    <div class="content">
+      {{ content }}   
+    </div>
     ---
-    <p>Go back to <a href="/notes">all posts</a>.</p>
+    <p> <a href="/notes">⬅️all posts</a></p>
   </body>
 </html>

@@ -43,4 +43,26 @@ a:hover {
   background-color: green;
 }
 
+.postul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.toc {
+  font-family: "Noto Sans Mono", monospace;
+}
+.toc a {
+  color: gray;
+  text-decoration: none;
+}
+.toc a:hover {
+  color: white;
+  background-color: gray;
+}
+
+code {
+  background-color: antiquewhite;
+}
+
 /*# sourceMappingURL=main.css.map */
